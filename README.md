@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagarlamudi Lakshmi Narayana
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently an Employee at iLink Digital
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?👇👇👇
 - You can reach/contact me through Email/LinkedIn/Twitter.
