@@ -4,7 +4,8 @@
 - 👀 I’m interested in learning new technologies
 - 📫 How to reach me ?👇👇👇
 - You can reach/contact me through Email/LinkedIn/Twitter.
-- ✉️ jagarlamudilakshman1233@gmail.com
+- ✉️ j.lakshmi1233@gmail.com
+- My Portfolio : lakshmanjagarlamudi.com
 - LinkedIn : https://bit.ly/3Ug1whQ
 - Twitter : https://bit.ly/3veFDU4
 <!---
