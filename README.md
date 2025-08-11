@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Jagarlamudi Lakshmi Narayana
-- 🧑‍🎓 Pursuing Master's in IT at Southern New Hampshire University
-- 🌱 Worked as a Softaware Engineer at iLink Digital
-- 👀 I’m interested in learning new technologies
+- 🧑‍🎓 Master's in IT at Southern New Hampshire University
+- 👀 I’m interested in exploring new technologies
 - 📫 How to reach me ?👇👇👇
 - You can reach/contact me through Email/LinkedIn/Twitter.
-- ✉️ j.lakshmi1233@gmail.com
+- ✉️ lakshman.techmail@gmail.com
 - My Portfolio : lakshmanjagarlamudi.com
 - LinkedIn : https://bit.ly/3Ug1whQ
 - Twitter : https://bit.ly/3veFDU4
