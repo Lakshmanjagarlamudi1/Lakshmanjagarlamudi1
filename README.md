@@ -3,7 +3,7 @@
 - 👀 I’m interested in exploring new technologies
 - 📫 How to reach me ?👇👇👇
 - You can reach/contact me through Email/LinkedIn/Twitter.
-- ✉️ lakshman.techmail@gmail.com
+- ✉️ jagarlamudilakshmi45@gmail.com
 - My Portfolio : lakshmanjagarlamudi.com
 - LinkedIn : https://bit.ly/3Ug1whQ
 - Twitter : https://bit.ly/3veFDU4
