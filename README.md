@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm **Lakshman Jagarlamudi**
-
 🎓 **Master’s in Information Technology** | *Southern New Hampshire University (Aug 2023 – Apr 2025)*  
-💼 **Aspiring Data Scientist & Data Engineer** passionate about building scalable data pipelines, predictive models, and cloud-based analytical solutions.
+💼 **Data Science Specialist** passionate about building scalable data pipelines, predictive models, and cloud-based analytical solutions.
 
 ---
 
@@ -36,7 +35,7 @@ Explore more on my [GitHub Projects →](https://github.com/Lakshmanjagarlamudi1
 ## 🌐 Connect With Me
 📩 **Email:** [jagarlamudilakshmi45@gmail.com](mailto:jagarlamudilakshmi45@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/lakshmi1233](https://bit.ly/3Ug1whQ)  
-🖥️ **Portfolio:** [lakshmanjagarlamudi.com](https://lakshmanjagarlamudilakshmi.com)
+🖥️ **Portfolio:** [lakshmanjagarlamudi.com](https://lakshmanjagarlamudi.com)
 
 ---
 
