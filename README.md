@@ -36,8 +36,7 @@ Explore more on my [GitHub Projects →](https://github.com/Lakshmanjagarlamudi1
 ## 🌐 Connect With Me
 📩 **Email:** [jagarlamudilakshmi45@gmail.com](mailto:jagarlamudilakshmi45@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/lakshmi1233](https://bit.ly/3Ug1whQ)  
-🐦 **Twitter:** [@LakshmanJ_Dev](https://bit.ly/3veFDU4)  
-🖥️ **Portfolio:** [lakshmanjagarlamudilakshmi.com](https://lakshmanjagarlamudilakshmi.com)
+🖥️ **Portfolio:** [lakshmanjagarlamudi.com](https://lakshmanjagarlamudilakshmi.com)
 
 ---
 
